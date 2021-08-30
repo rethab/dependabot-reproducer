@@ -1,0 +1,22 @@
+{
+  "name": "@rethab/user",
+  "version": "1.0.0",
+  "description": "A user of the dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rethab/dependabot-reproducer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rethab/dependabot-reproducer/issues"
+  },
+  "homepage": "https://github.com/rethab/dependabot-reproducer#readme",
+  "dependencies": {
+    "@rethab/github-helper": "^1.0.0"
+  }
+}
